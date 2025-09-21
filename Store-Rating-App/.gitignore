@@ -1,0 +1,20 @@
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+
+
+
+/node_modules
+node_modules/
+
+node_modules/
+
+
+frontend/node_modules/
+
+
+frontend/build/
